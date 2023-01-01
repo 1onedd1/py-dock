@@ -1,0 +1,12 @@
+{
+  "categories": {
+    "util": [
+      {
+        "title": "scissors",
+        "file_name": "SnippingTool.exe",
+        "path": "C:\\Windows\\System32",
+        "path_icon": ""
+      }
+    ]
+  }
+}
